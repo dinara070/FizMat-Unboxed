@@ -69,6 +69,7 @@
 ---
 
 ## 🧪 Що включає в себе проект:
+
 ### ✅ Презентації:
 1. Факультет математики, фізики і комп'ютерних наук ВДПУ: Історія та Перспективи
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Fakultet-matematiki-fiziki-i-kompyuternih-nauk-VDPU-Istoriya-ta-Perspektivi.pdf
@@ -80,6 +81,16 @@
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Pidgotovka-do-Ispitiv-Poradi-Tipovi-Zadachi-ta-Strategiyi.pdf
 5. Вступ до програмування на Python для фізматівців:
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Vstup-do-programuvannya-na-Python-dlya-fizmativciv.pdf
+
+## 🔗 Швидкі посилання:
+- Факультет математики, фізики і комп'ютерних наук:
+https://fmft.vspu.edu.ua/
+- Кафедра алгебри і методики навчання математики:
+https://amnm.vspu.edu.ua/
+- Кафедра математики і інформатики:
+https://fmft.vspu.edu.ua/kafedra-matematyky-ta-informatyky/
+- Кафедра фізики і методики навчання фізики і астрономії:
+https://sites.google.com/site/metfizika/home
 
 ---
 
