@@ -10,5 +10,7 @@
 ### ✅ Презентації:
 1. Факультет математики, фізики і комп'ютерних наук ВДПУ: Історія та Перспективи
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Fakultet-matematiki-fiziki-i-kompyuternih-nauk-VDPU-Istoriya-ta-Perspektivi.pdf
-2. Основи Лінійної Алгебри: Ключові Поняття та Застосування:
+2. Класична механіка: Основні закони та розв’язання задач:
+- https://github.com/dinara070/FizMat-Unboxed/blob/main/Klasichna-mehanika-Osnovni-zakoni-ta-rozvyazannya-zadach.pdf
+3. Основи Лінійної Алгебри: Ключові Поняття та Застосування:
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Osnovi-Linijnoyi-Algebri-Klyuchovi-Ponyattya-ta-Zastosuvannya.pdf
