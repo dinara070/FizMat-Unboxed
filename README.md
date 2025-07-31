@@ -14,5 +14,7 @@
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Klasichna-mehanika-Osnovni-zakoni-ta-rozvyazannya-zadach.pdf
 3. Основи Лінійної Алгебри: Ключові Поняття та Застосування:
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Osnovi-Linijnoyi-Algebri-Klyuchovi-Ponyattya-ta-Zastosuvannya.pdf
-4. Вступ до програмування на Python для фізматівців:
+4. Підготовка до Іспитів: Поради, Типові Задачі та Стратегії:
+- https://github.com/dinara070/FizMat-Unboxed/blob/main/Pidgotovka-do-Ispitiv-Poradi-Tipovi-Zadachi-ta-Strategiyi.pdf
+5. Вступ до програмування на Python для фізматівців:
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Vstup-do-programuvannya-na-Python-dlya-fizmativciv.pdf
