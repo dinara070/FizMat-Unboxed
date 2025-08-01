@@ -171,7 +171,8 @@ https://sites.google.com/site/metfizika/home
 - Python для дітей – Джейсон Бріггс — [PDF](https://libgen.rs)
 - Automate the Boring Stuff with Python – Al Sweigart — https://automatetheboringstuff.com/
 
-
+### 🧠 Гра «Колесо фортуни» — інтерактивна вікторина для факультету:
+- https://wordwall.net/uk/resource/95453676
 
 ---
 
