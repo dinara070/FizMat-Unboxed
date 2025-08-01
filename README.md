@@ -82,6 +82,9 @@
 5. Вступ до програмування на Python для фізматівців:
 - https://github.com/dinara070/FizMat-Unboxed/blob/main/Vstup-do-programuvannya-na-Python-dlya-fizmativciv.pdf
 
+### 🧠 Гра «Колесо фортуни» — інтерактивна вікторина для факультету:
+- https://wordwall.net/uk/resource/95453676
+
 ### ✅🔗 Інтерактивні ресурси
 
 #### 1. [PhET Interactive Simulations](https://phet.colorado.edu/)
@@ -170,9 +173,6 @@ https://sites.google.com/site/metfizika/home
 - Грокаємо алгоритми – Адитья Бхаргава — https://edu.tinkoff.ru/algorithms-book
 - Python для дітей – Джейсон Бріггс — [PDF](https://libgen.rs)
 - Automate the Boring Stuff with Python – Al Sweigart — https://automatetheboringstuff.com/
-
-### 🧠 Гра «Колесо фортуни» — інтерактивна вікторина для факультету:
-- https://wordwall.net/uk/resource/95453676
 
 ---
 
